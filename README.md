@@ -1,1 +1,1 @@
-# codigos_gerador
+# gerador de códigos
